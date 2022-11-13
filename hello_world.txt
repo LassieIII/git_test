@@ -1,0 +1,1 @@
+My name is Richard, and I am learning to use Git to make myself a better developer.
