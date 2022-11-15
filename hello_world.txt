@@ -1,1 +1,8 @@
 My name is Richard, and I am learning to use Git to make myself a better developer.
+I will also be adding some notes here occasionally. Especially things that relate to Git.
+To access a repo on another machine via SSH you need to make a key for EACH machine.
+
+    Commits are like snapshots of the code that we are working on at the time.
+    A good commit message history is useful just like comments. It can give your future self or you fellow developers an idea of what you were working on. They can also be used to see what changes we made with things like bug fixes.
+    The best time to commit is after any meaningful change has been made to the code. That way we will have all major changes documented.
+    
